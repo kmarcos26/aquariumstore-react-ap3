@@ -1,0 +1,85 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Pez Tropical",
+      "categoria": "Peces",
+      "precio": 20,
+      "stock": 18,
+      "imagen": "https://loremflickr.com/600/400/aquarium,fish?lock=1",
+      "descripcion": "Pez ornamental ideal para acuarios domésticos."
+    },
+    {
+      "id": 2,
+      "nombre": "Pez Dorado",
+      "categoria": "Peces",
+      "precio": 18,
+      "stock": 20,
+      "imagen": "https://loremflickr.com/600/400/goldfish,aquarium?lock=2",
+      "descripcion": "Pez resistente y popular para acuarios pequeños."
+    },
+    {
+      "id": 3,
+      "nombre": "Pez Betta",
+      "categoria": "Peces",
+      "precio": 25,
+      "stock": 12,
+      "imagen": "https://loremflickr.com/600/400/betta,fish?lock=3",
+      "descripcion": "Pez de colores llamativos, ideal para acuarios individuales."
+    },
+    {
+      "id": 4,
+      "nombre": "Pez de Acuario",
+      "categoria": "Peces",
+      "precio": 15,
+      "stock": 25,
+      "imagen": "https://loremflickr.com/600/400/aquarium,fish?lock=4",
+      "descripcion": "Pez ornamental recomendado para acuarios comunitarios."
+    },
+    {
+      "id": 5,
+      "nombre": "Pez Colorido",
+      "categoria": "Peces",
+      "precio": 22,
+      "stock": 16,
+      "imagen": "https://loremflickr.com/600/400/colorful,fish?lock=5",
+      "descripcion": "Pez vistoso para dar vida y color al acuario."
+    },
+    {
+      "id": 6,
+      "nombre": "Pez Pequeño",
+      "categoria": "Peces",
+      "precio": 10,
+      "stock": 35,
+      "imagen": "https://loremflickr.com/600/400/small,fish,aquarium?lock=6",
+      "descripcion": "Pez pequeño ideal para acuarios grupales."
+    },
+    {
+      "id": 7,
+      "nombre": "Alimento para Peces",
+      "categoria": "Alimentos",
+      "precio": 18,
+      "stock": 30,
+      "imagen": "https://loremflickr.com/600/400/fishfood?lock=18",
+      "descripcion": "Alimento básico para peces ornamentales."
+    },
+    {
+      "id": 8,
+      "nombre": "Alimento Tropical",
+      "categoria": "Alimentos",
+      "precio": 22,
+      "stock": 24,
+      "imagen": "https://loremflickr.com/600/400/fishfood?lock=18",
+      "descripcion": "Comida balanceada para peces tropicales."
+    },
+    {
+      "id": 9,
+      "nombre": "Comida en Hojuelas",
+      "categoria": "Alimentos",
+      "precio": 16,
+      "stock": 28,
+      "imagen": "https://loremflickr.com/600/400/fishfood?lock=19",
+      "descripcion": "Hojuelas nutritivas para alimentación diaria."
+    }
+  ]
+}
