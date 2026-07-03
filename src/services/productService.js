@@ -1,4 +1,4 @@
-const API_URL = 'https://aquariumstore-react-ap3-api.onrender.com/productos'
+const API_URL = 'https://aquariumstore-react-ap3.onrender.com/productos'
 
 export async function obtenerProductos() {
   try {
