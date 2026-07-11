@@ -29,6 +29,10 @@ function Navbar() {
           <NavLink to="/contacto" className={linkClass}>
             Contacto
           </NavLink>
+
+          <NavLink to="/login" className={linkClass}>
+            Admin
+          </NavLink>
         </div>
       </div>
     </nav>

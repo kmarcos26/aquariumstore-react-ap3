@@ -5,6 +5,8 @@ import Home from './pages/Home'
 import About from './pages/About'
 import Products from './pages/Products'
 import Contact from './pages/Contact'
+import Login from './pages/Login'
+import Admin from './pages/Admin'
 import NotFound from './pages/NotFound'
 
 function App() {
@@ -18,6 +20,8 @@ function App() {
           <Route path="/nosotros" element={<About />} />
           <Route path="/productos" element={<Products />} />
           <Route path="/contacto" element={<Contact />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/admin" element={<Admin />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
