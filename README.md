@@ -239,7 +239,4 @@ En Netlify se puede configurar:
 VITE_API_URL=https://aquariumstore-react-ap3.onrender.com/productos
 ```
 
-## Integrantes
 
-- Fernando Lagos
-- Kevin Marcos
