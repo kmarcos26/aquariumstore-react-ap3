@@ -1,4 +1,4 @@
-# AQUARIUMSTORE - React AP3
+# AQUARIUMSTORE - 
 
 AQUARIUMSTORE es una aplicación web desarrollada con React para la presentación de una tienda virtual de peces, acuarios, alimentos, filtros, decoración y accesorios para el cuidado de acuarios.
 
