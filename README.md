@@ -1,4 +1,4 @@
-<img width="900" height="1600" alt="prueba12" src="https://github.com/user-attachments/assets/0148d101-83fa-4a19-8df1-6135ac863b7f" />
+
 # AQUARIUMSTORE - 
 
 AQUARIUMSTORE es una aplicación web desarrollada con React para la presentación de una tienda virtual de peces, acuarios, alimentos, filtros, decoración y accesorios para el cuidado de acuarios.
